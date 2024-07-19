@@ -1,0 +1,228 @@
+[
+  {
+    "id": "lcml",
+    "title": "REEL 23",
+    "details": {
+      "description": "We have promoted the reduction of the digital gap in Mexico with immersive experiences like Mexicráneos and created experiences for malls, brands and dreams.",
+      "summary": "XR experiences & Immersive Entertainment Reel."
+    },
+    "date": "",
+    "roles": [
+      "Director",
+      "Executive Producer",
+      "Experience Designer",
+      "Creator"
+    ],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/814681248"
+      }
+    ]
+  },
+  {
+    "id": "kic",
+    "title": "Magia",
+    "details": {
+      "description": "Let dreams take you to a magic world in an immersive dance show that combines digital sceneries, theatrical dance and a fantastic holographic mesh.",
+      "summary": "Immersive Live Show"
+    },
+    "date": "",
+    "roles": ["Co-Creator", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/781922694"
+      }
+    ]
+  },
+  {
+    "id": "grillzzy",
+    "title": "Ek Balam",
+    "details": {
+      "description": "A mystical jaguar takes you to the underworld in a monumental mapping created for Day of Dead.",
+      "summary": "Video Mapping"
+    },
+    "date": "",
+    "roles": ["Creator", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/383434423"
+      }
+    ]
+  },
+  {
+    "id": "v1",
+    "title": "Wework VR",
+    "details": {
+      "description": "We just had a good day creating a VR commercial that mixes animation and 360 video.",
+      "summary": "Live Action & Animation VR Stand Alone Experience"
+    },
+    "date": "",
+    "roles": ["Director", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/842660846"
+      }
+    ]
+  },
+  {
+    "id": "mur",
+    "title": "Mur",
+    "details": {
+      "description": "An experimental video created by an artistic duo. Inspired by mezcal.",
+      "summary": "Instagram Content."
+    },
+    "date": "",
+    "roles": ["Director", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Instagram",
+        "link": "https://www.instagram.com/tv/CPUAIaujy65/?igshid=MzRlODBiNWFlZA=="
+      }
+    ]
+  },
+  {
+    "id": "slickscroll",
+    "title": "Mexicráneos",
+    "details": {
+      "description": "A massive interactive installation to promote traditions like Ofrenda and Tzompantli.",
+      "summary": "Augmented Reality APP"
+    },
+    "date": "",
+    "roles": ["Creator", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/367641430"
+      }
+    ]
+  },
+  {
+    "id": "puño",
+    "title": "Puño en Alto",
+    "details": {
+      "description": "The earthquake bring us together to have a collective artistic catarsis.",
+      "summary": "Awarded  VR Stand Alone Experience"
+    },
+    "date": "",
+    "roles": ["Co-Director", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/840345140"
+      }
+    ]
+  },
+  {
+    "id": "complices",
+    "title": "Seamos Cómplices",
+    "details": {
+      "description": "¡Ay Güey! dos´nt create commercials with models but this is an exception.",
+      "summary": ""
+    },
+    "date": "",
+    "roles": ["Director", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/329908814"
+      }
+    ]
+  },
+  {
+    "id": "sopa",
+    "title": "No te saltes la sopa",
+    "details": {
+      "description": "YouTube interactive content. A cinematographic video created for digital.",
+      "summary": ""
+    },
+    "date": "",
+    "roles": ["Director", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/244875098"
+      }
+    ]
+  },
+  {
+    "id": "chivas",
+    "title": "Diezymedia Reel",
+    "details": {
+      "description": "Proudly Executive Producer & Screenwriter in one of the best animation studios in that era.",
+      "summary": ""
+    },
+    "date": "",
+    "roles": ["Screenwriter ", "Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on YouTube",
+        "link": "https://www.youtube.com/watch?v=CNUufoldMas&feature=youtu.be"
+      }
+    ]
+  },
+  {
+    "id": "guerreros",
+    "title": "Los Guerreros",
+    "details": {
+      "description": "Cinema,TV, Radio & Digital campaign created between Consejo de la Comunicación, Ganem Group, novem & friends. Winner in Effies Awards.",
+      "summary": ""
+    },
+    "date": "",
+    "roles": ["Executive Producer"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on YouTube",
+        "link": "https://www.youtube.com/watch?v=n5ADHoJsOq4"
+      }
+    ]
+  },
+  {
+    "id": "mexique",
+    "title": "Viva Mexique",
+    "details": {
+      "description": "A mexican party for Jean Paul Gaultier, wrestlers, mariachis, a huge venue, flowers, props, a runway and many more for the master.",
+      "summary": ""
+    },
+    "date": "",
+    "roles": ["Project Leader"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Vimeo",
+        "link": "https://vimeo.com/244865498?share=copy"
+      }
+    ]
+  },
+  {
+    "id": "photo",
+    "title": "Photography",
+    "details": {
+      "description": "Some editorial photo published in Vogue online",
+      "summary": ""
+    },
+    "date": "",
+    "roles": ["Product shots", "Events", "Landscape", "Musas"],
+    "links": [
+      {
+        "type": "",
+        "text": "View on Behance",
+        "link": "https://www.behance.net/novemxr"
+      }
+    ]
+  }
+]
